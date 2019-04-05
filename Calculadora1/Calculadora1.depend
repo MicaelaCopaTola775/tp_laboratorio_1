@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1554433187 source:d:\micaelacopa\calculadora1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"../Calculadora1/funciones.h"
+
+1554433011 source:d:\micaelacopa\calculadora1\funciones.c
+
+1554432731 d:\micaelacopa\calculadora1\funciones.h
+
