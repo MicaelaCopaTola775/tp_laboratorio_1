@@ -4,7 +4,9 @@
 	<stdlib.h>
 	"../Calculadora1/funciones.h"
 
-1554433011 source:d:\micaelacopa\calculadora1\funciones.c
+1554509026 source:d:\micaelacopa\calculadora1\funciones.c
+	<stdio.h>
+	<stdlib.h>
 
 1554432731 d:\micaelacopa\calculadora1\funciones.h
 

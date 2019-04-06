@@ -1,13 +1,10 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "../Calculadora1/funciones.h"
+#include "funciones.h"
 
-float sumar(float x, float y);
-float restar(float x, float y);
-float multiplicar(float x, float y);
-float dividir(float x, float y);
-float factorial(float x);
-float factorial2(float y);
+/**< Este es un programa de una calculadora la cual posee un menú con diferentes
+     opciones a elegir por el usuario.
+     Según la opción que se elija se realizará una acción */
 
 int main()
 {
@@ -87,7 +84,7 @@ int main()
                     }
                 } else
                 {
-                    printf("\nNo se mostrara el resultado ya que no ha ingresado una operacion");
+                    printf("\nNo se mostrara el resultado ya que no ha elejido una operacion");
                 }
         break;
         }
